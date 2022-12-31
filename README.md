@@ -24,8 +24,5 @@
 <a href="https://www.typescriptlang.org/">
     <img src="https://user-images.githubusercontent.com/121458440/210119243-cdbe8cbd-e122-4896-a35f-dc97522951e3.jpg" width="60px">
 <a/>
-<a href="https://www.typescriptlang.org/">
+<a href="">
     <img src="https://user-images.githubusercontent.com/121458440/210119682-2b11a509-62c0-460a-84c4-9ac7d24595a0.png" width="60px">
-<a/>
-<a href="https://www.typescriptlang.org/">
-    <img src="https://user-images.githubusercontent.com/121458440/210119694-1a43eecb-2e59-406e-8219-30b7e1ed3004.png" width="60px">
