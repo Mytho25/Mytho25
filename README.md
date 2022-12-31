@@ -11,4 +11,15 @@
     <img align"center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="28px" width="28px" />  
   </a> 
   <a href="https://www.instagram.com/jose_vica/" tarjet="blank" style=margin-right: 4px">
-    <img align"center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" height="28px" widht="28px" />                                                                                      
+    <img align"center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" height="28px" widht="28px" />  
+ </a>
+</p>
+
+### 🤓 A little more about me...
+
+<p> I'm a <strong> proactive person</strong> who enjoys facing new challenges in mmy life. <strong>My open mindset and my ability to learn quickly</strong> give me an excellent set of skills to adapt to any work team.</p>
+
+### 📚 I'm currently learning...
+
+<a href="https://www.typescriptlang.org/>
+  <img src="">
