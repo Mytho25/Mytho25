@@ -17,7 +17,7 @@
 
 ### 🤓 A little more about me...
 
-<p> I'm a <strong> proactive person</strong> who enjoys facing new challenges in mmy life. <strong>My open mindset and my ability to learn quickly</strong> give me an excellent set of skills to adapt to any work team.</p>
+<p> I'm a <strong> proactive person</strong> who enjoys facing new challenges in my life. <strong>My open mindset and my ability to learn quickly</strong> give me an excellent set of skills to adapt to any work team.</p>
 
 ### 📚 I'm currently learning...
 
