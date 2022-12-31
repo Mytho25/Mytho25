@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center" width="300">
+  <img align= "center" width="200" src='https://user-images.githubusercontent.com/121458440/210117782-760366b1-502e-4d56-91e1-c8e8a40bf4ef.jpg'/>
+  <h3 align="center"> Hey!🖖: I'm Jose 👨‍💻</h3>
+  </p>
+  
+<p align="center"> I'm a future <strong> Developer</strong> <br / >¡These are my social networks! </p>
 
-<!--
-**Mytho25/Mytho25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a>     
+<p align="center">
+  <a href="https://www.linkedin.com/in/jose-vilchez-porras-90a20ba3/" tarjet="blank" style=margin-right: 4px">
+    <img align"center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="28px" width="28px" />  
+  </a> 
+  <a href="https://www.instagram.com/jose_vica/" tarjet="blank" style=margin-right: 4px">
+    <img align"center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" height="28px" widht="28px" />                                                                                      
