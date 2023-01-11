@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align= "center" width="200" src='https://user-images.githubusercontent.com/121458440/210117782-760366b1-502e-4d56-91e1-c8e8a40bf4ef.jpg'/>
+ 
   <h3 align="center"> Hey!🖖: I'm Jose 👨‍💻</h3>
   </p>
   
